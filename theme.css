@@ -9,7 +9,7 @@ html, body{
     text-align: center;
 }
 .header{
-    background-image: url(./img/hero.jpeg);
+    background-image: url(./img/hero.JPG);
     background-repeat: no-repeat;
     background-position: 50% 60%;
     background-attachment: scroll;
@@ -57,10 +57,10 @@ html, body{
 .fixed-button:hover{
     background: rgba(20,20,20,.9);
 }
+
 .section{
     margin: 0 auto;
     max-width: 600px;
-    padding: 1em 2.4em;
 }
 .sub-heading{
     font-family: 'Caveat', cursive;
@@ -68,7 +68,7 @@ html, body{
     margin-top: 2em;
 }
 .details{
-    margin: 0 auto 8em;
+    margin: 0 auto 2em;
 }
 .details-heading{
     font-weight: bold;
